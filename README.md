@@ -1,4 +1,4 @@
-# flutter_example
+# Device Info
 
 A new Flutter application.
 
